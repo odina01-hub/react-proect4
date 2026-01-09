@@ -579,7 +579,7 @@ const HomePages = () => {
 </section>
 
 
-<section>
+{/* <section>
     <div className='container mx-auto py-[90px] max-w-[1400px] w-full '>
       <div className='grid grid-cols-2 gap-10'>
           <div className="flex items-center justify-center gap-10 p-8 max-w-[750px] w-full h-[350px] bg-gray-200 ">
@@ -674,7 +674,7 @@ const HomePages = () => {
       </div>
     </div>
   </div>
-</section>
+</section> */}
 
     </>
   );
