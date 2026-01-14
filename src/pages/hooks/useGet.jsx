@@ -20,7 +20,7 @@ const useGet = ({url}) => {
 
     useEffect(() => {
         getData()
-    } , [url])
+    } , [])
 
   return  {data , loading , getData}
 }
