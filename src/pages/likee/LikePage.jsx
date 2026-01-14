@@ -15,10 +15,7 @@ const LikePage = () => {
         </div>
       ) : (
         <div className="text-center  mt-20">
-          <p className="text-[32px] font-bold">You haven’t liked any products yet.  </p>
-          <p className="text-[32px] font-bold">Favorites are empty.</p>
-          <p className="text-[32px] font-bold">No items here.</p>
-         
+          <p className="text-[32px] font-bold">You haven’t liked any products yet. 😳 </p>        
         </div>
       )}
     </div>

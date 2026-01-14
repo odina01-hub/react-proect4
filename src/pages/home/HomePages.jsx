@@ -48,7 +48,7 @@ const HomePages = () => {
         }}
       >
         <img
-          src=""
+          src="https://lottiefiles.com/free-animation/material-wave-loading-yt2uoeE83o"
           alt="Loading"
           style={{ width: "100%", height: "100%" }}
         />
