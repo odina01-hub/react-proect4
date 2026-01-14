@@ -17,8 +17,8 @@ const LikePage = () => {
         <div className="text-center  mt-20">
           <p className="text-[32px] font-bold">You haven’t liked any products yet.  </p>
           <p className="text-[32px] font-bold">Favorites are empty.</p>
-          <p className="text-[32px] font-bold">No items here. 🙁</p>
-          <img className="mx-auto w-[600px]" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6xmxNro5reKFmW6iUceXcslgRK-N6_2Smw&s" alt="" />
+          <p className="text-[32px] font-bold">No items here.</p>
+         
         </div>
       )}
     </div>
